@@ -15,6 +15,7 @@ function App() {
           Learn Jenkins on Udemy
         </a>
       </header>
+      <p>Yes the app is deployed through netlify 😁</p>
       <p>
           Application version: 1
       </p>
